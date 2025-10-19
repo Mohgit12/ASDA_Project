@@ -8,7 +8,7 @@ This is an interactive Streamlit dashboard to visualize Natura2000 coverage by m
 
 - Select a municipality from a dropdown menu
 - Display Natura2000 coverage (%) for the selected municipality
-- Bar chart showing coverage across all municipalities
+- Bar chart showing coverage across municipalities with the highest percenatges
 - Interactive map highlighting the selected municipality
 
 ## Installation 
