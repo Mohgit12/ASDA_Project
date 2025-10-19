@@ -48,8 +48,8 @@ Municipalities.gpkg: GeoPackage file with municipality boundaries.
 ## Notes
 - Make sure you are running the code using your Python environment or Jupyter kernel
 `pip/conda activate env_name`
-- Make sure you are in the same folder as natura_dashboard.py before running the command.
-- If the file name or path does not work, provide the full path to the script instead:
+- Navigate to the folder where natura_dashboard.py is located before running the command.
+- If the file name does not work, provide the full path to the script instead:
 `streamlit run "C:\Users\YourName\Path\To\Project\natura_dashboard.py"` for example
 
 
