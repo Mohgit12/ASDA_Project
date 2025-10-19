@@ -18,10 +18,17 @@ This is an interactive Streamlit dashboard to visualize Natura2000 coverage by m
 git clone https://github.com/<your-username>/ASDA_Project.git
 cd ASDA_Project
 ```
-2. Creating a Python Environment:
+2. Creating and Activating a Python Environment:
 ```
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
+On Windows
+```
+venv\Scripts\activate
+```
+On Mac/Linux
+```
+source venv/bin/activate
 ```
 
 3. Install Required Packages:
