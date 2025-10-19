@@ -35,6 +35,7 @@ streamlit run natura_dashboard.py
 ```
 ## Data
 Percentages_Natura2000.csv: Contains municipality-level Natura2000 coverage percentages. 
+
 Municipalities.gpkg: GeoPackage file with municipality boundaries.
 
 
